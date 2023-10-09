@@ -1,0 +1,9 @@
+prefix=/usr
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: rezlooks
+Description: Rezlooks GTK+ Theme Engine
+Version: 0.6
+Requires: gtk+-2.0

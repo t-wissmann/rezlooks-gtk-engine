@@ -1,0 +1,7 @@
+This is Doug Whiteley's rezlooks GTK+ engine, based on clearlooks.
+
+Do the normal dance to install:
+
+(./autogen.sh ; ) ./configure ; make ; make install
+
+try --enable-animation.

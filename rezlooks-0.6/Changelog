@@ -1,0 +1,29 @@
+0.6
+===
+* More code cleanup
+* Added new style grips
+* menubarstyle changes: 0 = flat, 1 = gradient, 2 = striped gradient
+
+0.5
+===
+* Simplified slider troughs
+* Made slider buttons look more like other buttons
+* Lightened the border of scrollbars (I might change this back)
+* Added new rc option "menubaritemstyle": 0 = flat, 1 = button-ish style
+* changed the "inner border" of buttons to be less contrasting
+
+0.4
+===
+* Started reading the "menubarstyle" theme item: 1 = gradient, 0 = flat
+* Changed the look of the progressbar to fit better with the theme
+* Made range slider buttons less fancy
+
+0.3.1
+=====
+* Fixed omp's bug of giant fat borders on default buttons
+* Implemented mulberry's suggestion of using a lightened button colour to 
+draw the button's inside border
+
+0.3
+===
+* Initial public release
