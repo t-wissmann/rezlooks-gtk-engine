@@ -19,5 +19,9 @@ The upstream page is on gnome-looks.org:
     upstream url.
   - `rezlooks-0.6/` contains the content of the tarball of version 0.6
     from the above upstream url
+  - Screenshots can be found [upstream](https://www.gnome-look.org/p/1080201/)
 
+## Compilation
+
+In order to build rezlooks on modern platforms, it might be necessary to change `glib/gtimer` to `glib` in `src/animation.c` as I did in the [PKGBUILD in the aur](https://aur.archlinux.org/packages/gtk-engine-rezlooks)
 
