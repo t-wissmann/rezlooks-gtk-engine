@@ -21,6 +21,8 @@ disableval="y"
 
 AC_ARG_ENABLE(animation, 	[  --enable-animation		compile rezlooks with animation support], 	[animation=$disableval], 	[animation=$enableval])
 
+AC_SEARCH_LIBS([sqrt], [m])
+
 PKG_CHECK_MODULES(GTK, gtk+-2.0 >= 2.8.0,,
                   AC_MSG_ERROR([GTK+-2.8 is required to compile rezlooks]))
 
