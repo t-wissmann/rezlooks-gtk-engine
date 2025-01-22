@@ -149,5 +149,9 @@ void rezlooks_draw_resize_grip      (cairo_t *cr,
                                        const ResizeGripParameters      *grip,
                                        int x, int y, int width, int height);
 
+void rezlooks_draw_menubar_button   (cairo_t *cr,
+                                       const RezlooksColors         *colors,
+                                       const WidgetParameters       *params,
+                                       int x, int y, int width, int height);
 
 #endif /* REZLOOKS_DRAW_H */
