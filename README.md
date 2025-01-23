@@ -18,7 +18,6 @@ The upstream page is on gnome-looks.org:
   - `rezlooks/` contains the content of the tarball of version 0.6 from the
     above upstream url with patches applied to make it compile on modern
     systems.
-  - Screenshots can be found [upstream](https://www.gnome-look.org/p/1080201/)
   - I once had the la(te)st release tarball `rezlooks-0.6.tar.gz` in the repository;
     of course it is still in the history (e.g. in commit
     `5953b8c261ed51e90c411b1e16ed8da74a0b7b43`)
@@ -31,4 +30,5 @@ aur](https://aur.archlinux.org/packages/gtk-engine-rezlooks)
 
 ## Screenshots
 
-See [the wiki page for screenshots](https://github.com/t-wissmann/rezlooks-gtk-engine/wiki).
+Screenshots can be found [upstream](https://www.gnome-look.org/p/1080201/),
+they are also mirrored on [this wiki page](https://github.com/t-wissmann/rezlooks-gtk-engine/wiki).
