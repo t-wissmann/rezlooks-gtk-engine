@@ -21,12 +21,17 @@ The upstream page is on gnome-looks.org:
   - I once had the la(te)st release tarball `rezlooks-0.6.tar.gz` in the repository;
     of course it is still in the history (e.g. in commit
     `5953b8c261ed51e90c411b1e16ed8da74a0b7b43`)
+  - In order to make packaging easy, I've created a release, the current
+    tarball is linked [under
+    "tags"](https://github.com/t-wissmann/rezlooks-gtk-engine/tags) and here:
+    https://github.com/t-wissmann/rezlooks-gtk-engine/archive/refs/tags/v0.6.1.tar.gz
+
 
 ## Compilation
 
 In order to build rezlooks, see the original `README` file by the author in the
 `rezlooks` subdirectory or the build instructions in my [PKGBUILD in the
-aur](https://aur.archlinux.org/packages/gtk-engine-rezlooks)
+aur](https://aur.archlinux.org/packages/gtk-engine-rezlooks).
 
 ## Screenshots
 
